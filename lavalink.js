@@ -3,9 +3,9 @@ module.exports = {
     enabled: true, 
     lavalink: {
       name: "GlaceYT-2",
-      password: "glace",
-      host: "de-01.strixnodes.com",
-      port: 2028,
+      password: "https://seretia.link/discord",
+      host: "lavalinkv4.serenetia.com",
+      port: 80,
       secure: false
     }
 };           
