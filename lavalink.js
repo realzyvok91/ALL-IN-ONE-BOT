@@ -3,10 +3,10 @@ module.exports = {
     enabled: true, 
     lavalink: {
       name: "GlaceYT-2",
-      password: "https://seretia.link/discord",
-      host: "lavalinkv4.serenetia.com",
-      port: 80,
-      secure: false
+      password: "https://dsc.gg/ajidevserver",
+      host: "lava-v4.ajieblogs.eu.org"",
+      port: 443,
+      secure: true
     }
 };           
 
